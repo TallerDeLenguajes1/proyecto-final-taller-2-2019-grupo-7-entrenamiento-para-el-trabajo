@@ -1,0 +1,353 @@
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\MainWindow.g.cs
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\MainWindow.baml
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.Cache
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+F:\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+C:\Users\Evelyn\Downloads\Taller-Final-EPT\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+F:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.baml
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.g.cs
+D:\Taller-Final-EPT2\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Diccionario\DiccionarioDeEstilo.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+H:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Diccionario\DiccionarioDeEstilo.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+D:\Ultima version\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Diccionario\DiccionarioDeEstilo.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarContrato.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCursados.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarContrato.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCursados.baml
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarBeneficiario.g.cs
+D:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarBeneficiario.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe.config
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.exe
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Vistas.pdb
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.dll
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.dll
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.dll
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Clases.pdb
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\Conexiones.pdb
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\bin\Debug\MySql.Data.xml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarContrato.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarBeneficiario.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCursados.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.g.cs
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.cache
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas_MarkupCompile.lref
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\App.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarContrato.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\AgregarCurso.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Diccionario\DiccionarioDeEstilo.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarBeneficiario.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarContrato.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCursados.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarCurso.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarDictado.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarInstructor.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\ModificarTutor.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaBeneficiario.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaContrato.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaCurso.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaDictado.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaInstructor.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaLogueo.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaPrincipal.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\VentanaTutor.baml
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.g.resources
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.Properties.Resources.resources
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.GenerateResource.cache
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.exe
+G:\EntrenamientoParaElTrabajo-Taller\EntrenamientoParaElTrabajo\Vistas\obj\Debug\Vistas.pdb

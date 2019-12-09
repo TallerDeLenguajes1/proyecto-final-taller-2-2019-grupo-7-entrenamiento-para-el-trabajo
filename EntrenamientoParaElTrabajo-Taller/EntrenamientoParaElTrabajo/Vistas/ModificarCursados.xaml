@@ -1,0 +1,15 @@
+﻿<Window x:Class="Vistas.ModificarCursados"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="ModificarCursados" Height="450" Width="440">
+    <Grid Opacity="0.9" Background="Black">
+        <ListBox x:Name="lbMostrarCursados" HorizontalAlignment="Left" Height="205" Margin="61,86,0,0" VerticalAlignment="Top" Width="307"/>
+        <Button x:Name="btnBorrar" Content="Borrar" HorizontalAlignment="Left" Margin="85,341,0,0" VerticalAlignment="Top" Width="90" Height="26" Click="btnBorrar_Click"/>
+        <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="254,341,0,0" VerticalAlignment="Top" Width="90" Height="26" Click="btnCancelar_Click"/>
+
+    </Grid>
+</Window>

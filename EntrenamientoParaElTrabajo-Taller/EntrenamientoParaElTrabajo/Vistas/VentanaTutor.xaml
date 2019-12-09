@@ -1,0 +1,29 @@
+﻿<Window x:Class="Vistas.VentanaTutor"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="Tutor" Height="520" Width="820">
+
+    <Grid Opacity="0.9" Background="Black">
+        <Label Content="Apellido:" x:Name="lblApellido"  HorizontalAlignment="Left" Margin="46,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="-4.549,-0.348" Height="47" Width="158"/>
+        <Label Content="Nombre:" x:Name="lblNombre"  HorizontalAlignment="Left" Margin="46,205,0,0" VerticalAlignment="Top" Width="158" Height="38"/>
+        <Label Content="DNI:" x:Name="lblDNI" HorizontalAlignment="Left" Margin="46,260,0,0" VerticalAlignment="Top" Width="158" Height="37"/>
+        <Label Content="Reparcticion:" x:Name="lblReparticion" HorizontalAlignment="Left" Height="40" Margin="46,320,0,0" VerticalAlignment="Top" Width="158"/>
+        <ComboBox x:Name="cbxReparticion" HorizontalAlignment="Left" Margin="210,302,0,0" VerticalAlignment="Top" Width="184" Height="58"/>
+        <ListBox x:Name="lbxListadoTutor" HorizontalAlignment="Left" Height="259" Margin="441,121,0,0" VerticalAlignment="Top" Width="348"/>
+        <TextBox x:Name="txtApellido" HorizontalAlignment="Left"  Margin="210,140,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="47" Width="184"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="47" Margin="210,195,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="184"/>
+        <TextBox x:Name="txtDNI" HorizontalAlignment="Left" Height="47" Margin="210,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="184"/>
+        <Button  Content="Insertar" x:Name="btnInsertar" HorizontalAlignment="Left" Height="38" Margin="105,429,0,0" VerticalAlignment="Top" Width="113" Click="BtnInsertar_Click" />
+        <Button  Content="Modificar" x:Name="btnModificar" HorizontalAlignment="Left" Height="38" Margin="261,429,0,0" VerticalAlignment="Top" Width="113" Click="BtnModificar_Click"/>
+        <Button  Content="Eliminar" x:Name="btnEliminar" HorizontalAlignment="Left" Height="38" Margin="421,429,0,0" VerticalAlignment="Top" Width="113" Click="BtnEliminar_Click" />
+        <Button  Content="Listar" x:Name="btnListar" HorizontalAlignment="Left" Height="38" Margin="582,429,0,0" VerticalAlignment="Top" Width="113" Click="BtnListar_Click"/>
+        <Label Content="Datos del Tutor" x:Name="Titulo1" HorizontalAlignment="Left" Height="33" Margin="122,46,0,0" VerticalAlignment="Top" Width="206" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Listado de Turores" x:Name="Titulo2" HorizontalAlignment="Left" Height="33" Margin="509,46,0,0" VerticalAlignment="Top" Width="231" FontSize="20" FontWeight="Bold"/>
+        <Grid HorizontalAlignment="Left" Height="2" Margin="0,94,-6.4,0" VerticalAlignment="Top" Width="819" Background="#FF45454C"/>
+        <Grid HorizontalAlignment="Left" Height="2" Margin="-6,409,-0.4,0" VerticalAlignment="Top" Width="820" Background="#FF45454C"/>
+    </Grid>
+</Window>

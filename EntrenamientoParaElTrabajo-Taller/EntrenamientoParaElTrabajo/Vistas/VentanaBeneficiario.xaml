@@ -1,0 +1,38 @@
+﻿<Window x:Class="Vistas.VentanaBeneficiario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vistas"
+        mc:Ignorable="d"
+        Title="VentanaBeneficiario" Height="500
+        
+        " Width="1000">
+    <Grid Opacity="0.9" Background="Black">
+        <Label Content="Nombre" HorizontalAlignment="Left" Margin="153,88,0,0" VerticalAlignment="Top" Height="30" Width="78"/>
+        <Label Content="Apellido" HorizontalAlignment="Left" Margin="153,136,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="DNI" HorizontalAlignment="Left" Margin="153,180,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="Email" HorizontalAlignment="Left" Margin="153,226,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="CUIL" HorizontalAlignment="Left" Margin="153,270,0,0" VerticalAlignment="Top" Width="78"/>
+        <Label Content="Escolaridad" HorizontalAlignment="Left" Margin="153,314,0,0" VerticalAlignment="Top" Width="95"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left"  Margin="290,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox x:Name="txtApellido" HorizontalAlignment="Left" Height="24" Margin="290,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtDNI" HorizontalAlignment="Left" Height="24" Margin="290,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="24" Margin="290,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtCUIL" HorizontalAlignment="Left" Height="22" Margin="290,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnIngresar" Content="Ingresar" HorizontalAlignment="Left" Margin="22,402,0,0" VerticalAlignment="Top" Width="76" Click="btnIngresar_Click" Height="28"/>
+        <Button x:Name="btnListar" Content="Listar" HorizontalAlignment="Left" Margin="118,402,0,0" VerticalAlignment="Top" Width="76" Click="btnListar_Click" Height="28"/>
+        <Button x:Name="btnModificar" Content="Modificar" HorizontalAlignment="Left" Margin="224,402,0,0" VerticalAlignment="Top" Width="76" Height="28" Click="btnModificar_Click"/>
+        <Button x:Name="btnBorrar" Content="Borrar" HorizontalAlignment="Left" Margin="336,402,0,0" VerticalAlignment="Top" Width="74" Height="28" Click="btnBorrar_Click"/>
+        <Button x:Name="btnAgregarCurso" Content="AgregarCurso" HorizontalAlignment="Left" Margin="452,402,0,0" VerticalAlignment="Top" Width="96" Click="BtnAgregarCurso_Click" Height="28"/>
+        <Button x:Name="btnAgregarContrato" Content="AgregarContrato" HorizontalAlignment="Left" Margin="570,402,0,0" VerticalAlignment="Top" Width="126" RenderTransformOrigin="0.7,0.45" Click="btnAgregarContrato_Click" Height="28"/>
+        <ListBox x:Name="lbMostrar" HorizontalAlignment="Left" Height="248" Margin="500,88,0,0" VerticalAlignment="Top" Width="335" IsSynchronizedWithCurrentItem="True"/>
+        <ComboBox x:Name="cbEscolaridad" HorizontalAlignment="Left" Margin="290,314,0,0" VerticalAlignment="Top" Width="120"/>
+        <Grid HorizontalAlignment="Left" Height="2" Margin="0,359,0,0" VerticalAlignment="Top" Width="992" Background="#FF45454C"/>
+        <Grid HorizontalAlignment="Left" Height="2" Margin="0,57,0,0" VerticalAlignment="Top" Width="982" Background="#FF45454C"/>
+        <Label Content="Datos del Beneficario" x:Name="Titulo1" HorizontalAlignment="Left" Height="33" Margin="182,19,0,0" VerticalAlignment="Top" Width="238" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Listado de Beneficario" x:Name="Titulo2" HorizontalAlignment="Left" Height="33" Margin="543,19,0,0" VerticalAlignment="Top" Width="241" FontSize="20" FontWeight="Bold"/>
+        <Button x:Name="btnEliminarContrato" Content="EliminarContrato" Margin="719,402,156,0" VerticalAlignment="Top" Click="btnEliminarContrato_Click" Height="28"/>
+        <Button x:Name="btnEliminarCursados" Content="EliminarCursados" HorizontalAlignment="Left" Margin="851,402,0,0" VerticalAlignment="Top" Width="119" Click="btnEliminarCursados_Click" Height="28"/>
+    </Grid>
+</Window>
